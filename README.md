@@ -20,7 +20,7 @@ This Java program demonstrates the implementation of a Binary Search Tree (BST) 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/binary-search-tree.git
+   git clone https://github.com/dimilidi/binary-search-tree.git
 
 2. Navigate to project directory
 
